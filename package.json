@@ -1,0 +1,30 @@
+{
+  "name": "mean-tutorial",
+  "version": "1.0.0",
+  "description": "MEAN stack learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkumbheshwar/MEAN-Tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "tutorial"
+  ],
+  "author": "vkumbheshwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkumbheshwar/MEAN-Tutorial/issues"
+  },
+  "homepage": "https://github.com/vkumbheshwar/MEAN-Tutorial#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.9"
+  }
+}
